@@ -1,0 +1,35 @@
+{
+  "version_modelo": "1.0.0",
+  "scenarios": [
+    {
+      "name": "Caso base",
+      "c": 0.0,
+      "r": 0.0,
+      "p": 0.0
+    },
+    {
+      "name": "Capacitación intensiva",
+      "c": 1.0,
+      "r": 0.0,
+      "p": 0.0
+    },
+    {
+      "name": "Actualización recurrente",
+      "c": 0.0,
+      "r": 1.0,
+      "p": 0.0
+    },
+    {
+      "name": "Certificación priorizada",
+      "c": 0.0,
+      "r": 0.0,
+      "p": 1.0
+    },
+    {
+      "name": "Escenario combinado",
+      "c": 1.0,
+      "r": 1.0,
+      "p": 1.0
+    }
+  ]
+}

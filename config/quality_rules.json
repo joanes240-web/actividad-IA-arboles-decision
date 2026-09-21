@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "rules": {
+    "completitud": {
+      "description": "El campo requerido debe estar presente en la proporción mínima definida para cada métrica.",
+      "default_threshold": null,
+      "on_fail": "Excluir campo de la métrica, segmentar la población o escalar a validación."
+    },
+    "unicidad": {
+      "description": "La llave debe respetar la granularidad declarada.",
+      "on_fail": "Revisar cardinalidad; deduplicar solo con regla documentada."
+    },
+    "validez": {
+      "description": "Tipo, rango y catálogo deben ser compatibles con la definición.",
+      "on_fail": "Corregir tipo o marcar registro inválido."
+    },
+    "consistencia_temporal": {
+      "description": "La fecha de aprendizaje debe ser anterior o coherente con la ventana operativa.",
+      "on_fail": "Excluir relación temporal incoherente."
+    },
+    "trazabilidad": {
+      "description": "Fuente y transformación deben ser identificables.",
+      "on_fail": "No publicar KPI hasta reconstruir linaje."
+    }
+  }
+}

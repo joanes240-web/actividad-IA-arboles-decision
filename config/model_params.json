@@ -1,0 +1,24 @@
+{
+  "version_modelo": "1.0.0",
+  "tipo": "simulacion_deterministica_what_if",
+  "T0_horas": 42.0,
+  "Gmax": 0.2678077,
+  "beta_c": 0.5288919,
+  "beta_r": 0.7796493,
+  "beta_p": 1.0705728,
+  "dominio_entradas": {
+    "c": [
+      0.0,
+      1.0
+    ],
+    "r": [
+      0.0,
+      1.0
+    ],
+    "p": [
+      0.0,
+      1.0
+    ]
+  },
+  "nota": "Parámetros calibrados para reproducir los escenarios académicos del piloto; no representan efectos causales."
+}

@@ -217,3 +217,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 Gestion Bases de Datos/export_muestras.zip
+
+Gestion Bases de Datos/export_muestras/
+Gestion Bases de Datos/Resumen_EDA_Proyecto.xlsx
+Gestion Bases de Datos/EDA_Completo_Proyecto.ipynb
+Gestion Bases de Datos/conversions_a_parquets.ipynb
