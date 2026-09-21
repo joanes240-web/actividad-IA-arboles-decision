@@ -1,0 +1,334 @@
+Tabla,Campo,Tipo,Nulos,Unicos,Ejemplo
+buglum_reakt_diccionario_comportmientos,Observable,object,0,367,"Gestiona adecuadamente situaciones de alta presión, como retrasos o imprevistos, manteniendo una actitud positiva y proactiva."
+buglum_reakt_diccionario_comportmientos,Id_Observable,object,42,266,OBS_00001
+buglum_reakt_diccionario_comportmientos,Nueva_Habilidad,object,109,18,GESTIÓN DE EMOCIONES
+buglum_reakt_diccionario_comportmientos,Perfil,object,42,17,"CONOCIMIENTOS (CONSULTOR EMPRESAS Y NEGOCIOS (EMPRESAS, NEGOCIOS))"
+buglum_reakt_diccionario_comportmientos,Rol,object,84,4,CONSULTOR
+buglum_reakt_metas_observables,Canal,object,0,8,CALL CENTER
+buglum_reakt_metas_observables,Region,object,0,5,R1
+buglum_reakt_metas_observables,Meta,int64,0,65,85
+buglum_reakt_metas_observables,Llave,object,0,387,CALL CENTER-R1-202507
+buglum_reakt_metas_observables,Fecha,datetime64[ns],0,12,1970-01-01 00:00:00.000202507
+conectados_ingresos,cedula,object,597,27547,52394973
+conectados_ingresos,experiencia,object,19,26,CAV
+conectados_ingresos,fecha,datetime64[ns],0,297,2025-01-14 00:00:00
+Data_Conocimiento_Integrada,Cedula ,int64,0,1290,1000468068
+Data_Conocimiento_Integrada,Punto LB ,float64,0,20,50.0
+Data_Conocimiento_Integrada,Punto EV ,float64,9202,13,75.0
+Data_Conocimiento_Integrada,Adhesion,float64,9202,34,-25.0
+Data_Conocimiento_Integrada,Habilidad ,object,0,8,HABILIDAD COMERCIAL
+Data_Conocimiento_Integrada,Momento,object,0,24,ARGUMENTA EL PRODUCTO
+Data_Conocimiento_Integrada,Canal,object,0,4,TMK
+Data_Conocimiento_Integrada,Regional ,object,0,5,R4
+fechas_call_center,codigo_interno_evaluado,int64,0,668,1073712574
+fechas_call_center,Fecha,datetime64[ns],0,9,1970-01-01 00:00:00.000202501
+freshdesk_tickets,ID del ticket,int64,0,14449,111054
+freshdesk_tickets,Asunto,object,15,8541,No deja ingresar a la plataforma
+freshdesk_tickets,Estado,object,0,4,Closed
+freshdesk_tickets,Prioridad,object,0,4,Low
+freshdesk_tickets,Origen,object,0,4,Feedback Widget
+freshdesk_tickets,Tipo,object,7,36,Solicitud de acceso a Plataformas de Comunicación
+freshdesk_tickets,Agente,object,0,36,Stiven Garcia
+freshdesk_tickets,Grupo,object,0,9,Gestión de Sistemas
+freshdesk_tickets,Hora de creación,object,0,14402,2025-01-02 07:51:48
+freshdesk_tickets,Tiempo de vencimiento,object,0,10507,2025-01-06 09:15:49
+freshdesk_tickets,Hora de resolución,object,47,14391,2025-01-03 09:36:49
+freshdesk_tickets,Hora de cierre,object,9789,4655,2025-01-03 09:36:49
+freshdesk_tickets,Hora de última actualización,object,0,14433,2025-01-03 09:36:49
+freshdesk_tickets,Tiempo de respuesta inicial,object,126,14300,2025-01-02 09:21:34
+freshdesk_tickets,Tiempo de primera respuesta (en horas),object,0,7483,01:21:34
+freshdesk_tickets,Tiempo de resolución (en horas),object,0,13258,10:36:49
+freshdesk_tickets,Interacciones del agente,int64,0,20,2
+freshdesk_tickets,Interacciones del cliente,int64,0,14,1
+freshdesk_tickets,Estado de resolución,object,47,2,Within SLA
+freshdesk_tickets,Estado de primera respuesta,object,126,2,Within SLA
+freshdesk_tickets,Etiquetas,object,311,320,"Conectados,Actualización,Sin Canal"
+freshdesk_tickets,Nombre completo,object,0,3641,RAFAEL HERNANDO PARRA PARRA
+freshdesk_tickets,Título,object,8591,125,Analista Contenido Formación
+freshdesk_tickets,Correo electrónico,object,0,3809,rafaparra2@hotmail.com
+freshdesk_tickets,Teléfono del trabajo,object,13086,39,7500300
+freshdesk_tickets,Teléfono móvil,object,11737,43,+573138224071
+freshdesk_tickets,ID de Twitter,float64,14449,0,
+freshdesk_tickets,Zona horaria,object,0,2,Bogota
+freshdesk_tickets,Idioma,object,0,1,es
+freshdesk_tickets,Etiquetas.1,object,14329,3,Call Center
+freshdesk_tickets,Perfil verificado de Twitter,object,7163,1,False
+freshdesk_tickets,Recuento de seguidores en Twitter,float64,14449,0,
+freshdesk_tickets,ID de Facebook,float64,14449,0,
+freshdesk_tickets,ID del contacto,object,0,3809,rafaparra2@hotmail.com
+freshdesk_tickets,Nombre de la compañía,object,9599,40,Spira
+freshdesk_tickets,Dominios de compañía,float64,14449,0,
+gforms_cavs,ID,int64,0,238,1
+gforms_cavs,Hora de inicio,object,0,232,8/27/2025 11:41
+gforms_cavs,Hora de finalización,object,0,232,8/27/2025 11:44
+gforms_cavs,Correo electrónico,object,0,220,38506239@claro.com.co
+gforms_cavs,Nombre,object,0,220,Ariel Vargas Munoz
+gforms_cavs,Hora de la última modificación,float64,2856,0,
+gforms_cavs,Nombre del evaluado:,object,0,231,Ariel Antonio Vargas Muñoz 
+gforms_cavs,Cédula del evaluado:,int64,0,220,1038118898
+gforms_cavs,Correo electronico:,object,0,225,ariel.vargasm@claro.com.co
+gforms_cavs,Regional:,object,0,5,R2
+gforms_cavs,Nombre del CAV:,object,0,157,Cav Caucasia 
+gforms_cavs,questiontext,object,0,12,"Para   Claro, es fundamental que sus colaboradores desarrollen un sentido de   pertenencia con la compañía, y para lograrlo, es clave tener presente su   propósito, misión visión y los valores. Ca..."
+gforms_cavs,letra_respuesta,object,0,4,B
+gforms_cavs,Respuesta,object,0,47,"Claro tiene como propósito identificar las necesidades de los colombianos para ofrecer soluciones adecuadas en telecomunicaciones, y hacer que cada persona tenga acceso a tecnologías que mejoren su calidad de vida, facilitando la comunicación y el acceso a la información en un mundo cada vez más conectado."
+gforms_cavs,Fase,object,0,7,Preturno
+gforms_cavs,Habilidad,object,0,5,ADAPTABILIDAD
+gforms_cavs,letra_respuesta.1,object,0,47,1B
+gforms_cavs,VALUE,int64,0,4,75
+human_demanda_umc,anio,int64,0,1,2025
+human_demanda_umc,Mes,object,0,4,Septiembre
+human_demanda_umc,Estado,object,0,7,Ejecutado 
+human_demanda_umc,Motivo,object,1,6,Acompañamiento
+human_demanda_umc,Planificado / Demanda ,object,58,2,Planificado
+human_demanda_umc,Fecha,datetime64[ns],1,57,2025-09-01 00:00:00
+human_demanda_umc,Siuc,object,1,115,4360
+human_demanda_umc,Categoria,object,1,8, 
+human_demanda_umc,Segmento,object,1,23,Grandes Empresas
+human_demanda_umc,Tema,object,1,112,Venta consultiva Sellution
+human_demanda_umc,KPI,object,11,15,Productividad
+human_demanda_umc,Estado KPI,object,103,21,0
+human_demanda_umc,Meta KPI,object,110,29,2
+human_demanda_umc,Hora,object,3,91,8:00am a 6:00pm
+human_demanda_umc,Público Objetivo,object,76,46,Sales Executive
+human_demanda_umc,Modalidad,object,1,9,Presencial
+human_demanda_umc,Lugar,object,14,107,306
+human_demanda_umc,Regional,object,75,14,Transversal
+human_demanda_umc,Objetivo de la Sesión,object,99,56,Se espera lograr 2 oportunidades creadas para este semestre por parte del equipo de Grandes Empresas
+human_demanda_umc,Entrenador  Asignado ,object,9,26,Camilo Jaramillo
+human_demanda_umc,Motivo Cancelación,object,231,6,a solicitud de la gerencia 
+human_demanda_umc,Fecha Limite Entrega Revisión,object,182,14,Sin asistentes
+human_demanda_umc,Fecha de Entrega,object,197,13,10/3/2025
+human_demanda_umc,Informe Entregado,object,191,2,SI
+human_demanda_umc,Estado 1,object,191,6,Tarde
+human_demanda_umc,Fecha Devolución,object,233,3,10/6/2025
+human_demanda_umc,Fecha Entrega Correcciones ,object,234,2,10/6/2025
+human_demanda_umc,Fecha Limite Entrega Analista,object,183,12,10/3/2025
+human_demanda_umc,Fecha de Entrega.1,object,207,11,10/3/2025
+human_demanda_umc,Informe Entregado.1,object,200,3, 
+human_demanda_umc,Estado 2,object,201,5, 
+human_demanda_umc,Fecha de Devolución,float64,238,0,
+human_demanda_umc,Estado3,float64,238,0,
+human_demanda_umc,Fecha de Entrega Final,object,208,11,10/3/2025
+human_demanda_umc,Cumplimiento,object,206,3,Cumple 
+kpis_negocio,cedula,object,0,16568,10779176
+kpis_negocio,indicador,object,0,9,NPS
+kpis_negocio,region,object,0,5,R1
+kpis_negocio,periodo,int64,0,10,202501
+kpis_negocio,valor,float64,0,2227,0.2874
+kpis_negocio,canal,object,0,3,CAV
+kpis_negocio,mes,object,0,10,Enero
+kpis_negocio,subcanal,object,0,6,CAV
+manual_categorizacion_certificacion_umc,No,int64,0,23,1
+manual_categorizacion_certificacion_umc,PREGUNTA ,object,0,240,"Pregunta de opción múltiple con única respuesta: Una entidad financiera recibe miles de PQRs al mes, pero su sistema actual no permite hacer seguimiento efectivo ni medir la satisfacción del cliente. ¿Cuál sería la solución más adecuada para mejorar este proceso?"
+manual_categorizacion_certificacion_umc,N° Respuesta,float64,3,3,1.0
+manual_categorizacion_certificacion_umc,Respuesta,object,0,665,Implementar un buzón de sugerencias físico en cada sucursal.
+manual_categorizacion_certificacion_umc,Es correcto,object,0,5,FALSO
+manual_categorizacion_certificacion_umc,Cargo,object,0,10,Corporativo
+manual_categorizacion_certificacion_umc,Temas,object,0,36,CoE Claro CX + Webex Contact Center (CX y Omnicanalidad)
+manual_categorizacion_certificacion_umc,Familia ,object,306,18,Servicios administrados
+manual_categorizacion_certificacion_umc,Fecha,datetime64[ns],1268,0,
+manual_categorizacion_certificacion_umc,CARGO 2,object,0,8,Corporativo
+manual_categorizacion_certificacion_umc,CANAL,object,0,3,Corporativo
+manual_poblacion_segmentada,CEDULA,int64,0,6723,39625906
+manual_poblacion_segmentada,NOMBRE,object,0,6952,YOHANNA ISABEL GARAY ROMERO
+manual_poblacion_segmentada,CIUDAD,object,0,91,BOGOTA
+manual_poblacion_segmentada,REGION,object,0,7,TRANSVERSAL
+manual_poblacion_segmentada,CANAL,object,0,8,CGV
+manual_poblacion_segmentada,GERENCIA,object,1631,38,ACTIVACIONES
+manual_poblacion_segmentada,OPERACI�N,object,1677,67,YOHANNA ISABEL GARAY ROMERO
+manual_poblacion_segmentada,ALIADO,object,0,221,COVISIAN
+manual_poblacion_segmentada,CUARTIL,float64,16,6,0.0
+manual_poblacion_segmentada,NOVEDAD,object,0,11,ACTIVO
+manual_poblacion_segmentada,Fecha,datetime64[ns],0,10,1970-01-01 00:00:00.000202509
+manual_poblacion_segmentada,WAVE,int64,0,10,9
+manual_poblacion_segmentada,Punto/Distrito,object,0,269,COVISIAN
+manual_unidades_de_negocio_actualizado,Nombre,object,0,1085,DIESTRO SAS-R2-PDV-COM
+manual_unidades_de_negocio_actualizado,CANAL,object,0,8,COMERCIAL
+manual_unidades_de_negocio_actualizado,GERENCIA,object,0,15,AGENTES COMERCIALES
+manual_unidades_de_negocio_actualizado,OPERACIÓN,object,0,48,COM-PDV
+manual_unidades_de_negocio_actualizado,REGIONAL,object,0,140,R2 REGION NOROCCIDENTE-PDV
+manual_unidades_de_negocio_actualizado,REGIÓN,object,0,5,R2
+manual_unidades_de_negocio_actualizado,Aliado,object,0,475,DIESTRO SAS
+poblacion_objetivo,Cédula,int64,0,2199,1151476312
+poblacion_objetivo,Nombre,object,0,2199,ALEJANDRA DEJESUS CUERVA MUÑOZ
+poblacion_objetivo,Región,object,0,6,R1
+poblacion_objetivo,Canal,object,0,7,CALL CENTER
+poblacion_objetivo,Gerencia,object,0,2,NO APLICA
+poblacion_objetivo,Operación,object,0,1,NO APLICA
+poblacion_objetivo,Novedad,object,2187,1,NOVEDAD
+poblacion_objetivo,Destino,object,20,11,Dimensions
+siuc_asistencias,Id,int64,0,606144,127207
+siuc_asistencias,Identificacion (Asistente),int64,0,27822,72264404
+siuc_asistencias,Nombre del alumno,object,0,28165,Jorge Eliecer  Cantillo  Ibañez 
+siuc_asistencias,Solicitante,object,0,2316,Día 1 R2
+siuc_asistencias,Genero,object,0,3,Masculino
+siuc_asistencias,Region,object,0,6,R2
+siuc_asistencias,Ciudad,object,0,60,Medellin-R2
+siuc_asistencias,Empresa del estudiante,object,0,33,OVERLAP
+siuc_asistencias,Area Gerencia,object,44,49,AGENTES
+siuc_asistencias,Cons agenda,int64,0,13886,5815
+siuc_asistencias,Coordinacion,object,0,7,COMERCIAL
+siuc_asistencias,Ubicacion,object,15,172,CAV MEDELLÍN LA CENTRAL
+siuc_asistencias,Ejecutivo,object,1,332,YERLIN ANDREI FRANCO ALVAREZ
+siuc_asistencias,Metodologia,object,0,3,Híbrida
+siuc_asistencias,Fecha real de creacion asistencia,datetime64[ns],0,568216,2025-01-02 07:15:31
+siuc_asistencias,Operacion,object,13226,40,DIRECTOS
+siuc_asistencias,Cons solicitud,int64,0,2808,1714
+siuc_asistencias,Nombre de la solicitud,object,0,2316,Día 1 R2
+siuc_asistencias,Ejecutor,object,0,2,Universidad Claro
+siuc_asistencias,Indicador a impactar,object,0,245,"Adiciones Netas, Altas, Calidad de la venta, GANA, NPS"
+siuc_asistencias,Cons sesion,int64,0,19984,7469
+siuc_asistencias,Temas dictados,object,60,1765,CONECTADOS
+siuc_asistencias,Agendador,object,0,217,LUNA CAMILA HERNANDEZ ORTIZ
+siuc_asistencias,Tiempo dedicado al entrenamiento,object,0,45,02:00:00
+siuc_asistencias,Estado o proceso del entrenamiento,object,0,1,Finalizado
+siuc_asistencias,Empresa del ejecutivo,object,0,244,CLARO
+ssff_callcenter,Programa,object,0,4,CALL CENTER-Masivo
+ssff_callcenter,CANAL,object,0,1,CALL CENTER
+ssff_callcenter,Cuestionario,object,0,4,Masivo
+ssff_callcenter,Indicador,object,0,3,NPS-FCR
+ssff_callcenter,Cedula,int64,0,543,1005830596
+ssff_callcenter,Nombre,object,0,548,JEISON DAVID GUZMAN RENDON
+ssff_callcenter,Correo,object,0,546,JGUMAN0523.JG@GMAIL.COM
+ssff_callcenter,Estado,object,0,1,FINISHED
+ssff_callcenter,Dimensi�n,object,0,12,Cambios en el servicio
+ssff_callcenter,Pregunta,object,0,37,"Laura, cliente de Claro, desea mejorar su plan postpago ya que no le suelen alcanzar sus GB mensuales. Actualmente, no tiene claro cu�ntos GB exactos tiene y se comunica con la l�nea de servicio al cliente para verificar esta informaci�n y conocer cu�l es la mejor opci�n para ella. Ha visto en internet dos planes que le podr�an interesar: uno de menor valor que incluye 85GB y minutos ilimitados, y otro de mayor valor que incluye 110GB, minutos ilimitados, MAX y asistencia. Actualmente Laura busca una alternativa que se ajuste a su presupuesto y le genere mejores beneficios que los que cuenta actualmente. �Qu� pasos seguir�as para gestionar la situaci�n de Laura y asesorarla adecuadamente?�"
+ssff_callcenter,Valor,int64,0,3,100
+ssff_callcenter,Respuesta,object,0,137,"Para brindarle un excelente servicio a Laura se debe tener en cuenta lo siguiente: Invitarla a descargar la APP mi Claro en donde podr� conocer informaci�n sobre su plan actual, indagar sobre la usabilidad de su plan de datos, realizando preguntas filtro como: �Para qu� actividades usas tus datos? �Te interesa tener acceso a servicios adicionales como MAX y asistencia?, �Qu� es lo que m�s te gusta y lo que menos te gusta de tu plan actual? Con esta informaci�n a trav�s del aplicativo Suma y Enamora buscar una oferta bondolizada en la cual se le pueda ofrecer una mejora en su servicio manteniendo el mismo que precio que paga actualmente."
+ssff_callcenter,Mes_Respuesta,int64,0,9,202501
+ssff_certificaciones,ID de colaborador,int64,0,3615,46278908
+ssff_certificaciones,Nombre de colaborador,object,819,3615,"Ramirez Garcia, Jhoan "
+ssff_certificaciones,ID de tipo de formación,object,819,1,CERT
+ssff_certificaciones,ID de tipo de  formación,object,819,20,UC_CALL_CER_U_BROW_JUL_25
+ssff_certificaciones,Fecha de revisión de tipo de  formación,datetime64[ns],28465,0,
+ssff_certificaciones,Número de revisión de tipo de  formación,float64,819,1,1.0
+ssff_certificaciones,Título del objeto,object,819,20,Certifícate con la U - Brownfield julio 2025
+ssff_certificaciones,ID del examen,object,819,20,UC_CALL_CER_U_BROW_JUL_25
+ssff_certificaciones,Título de examen,object,819,20,Certifícate con la U - Brownfield julio 2025
+ssff_certificaciones,Cantidad de intentos,float64,819,3,1.0
+ssff_certificaciones,Iteración,float64,819,2,2.0
+ssff_certificaciones,Configuración regional de iteración,object,819,1,Spanish
+ssff_certificaciones,Vigilante,float64,28465,0,
+ssff_certificaciones,Fecha de acceso inicial,object,819,4483,23/7/2025 14:32:43 América/Bogotá
+ssff_certificaciones,Fecha de último acceso,object,819,4482,23/7/2025 14:32:43 América/Bogotá
+ssff_certificaciones,Finalizado,object,819,2,No
+ssff_certificaciones,Completo,object,819,2,No
+ssff_certificaciones,Fecha de finalización,object,7625,3448,24/7/2025 15:20:11 América/Bogotá
+ssff_certificaciones,Última respondida,float64,1171,10,5.0
+ssff_certificaciones,Preguntas formuladas,float64,819,5,5.0
+ssff_certificaciones,Preguntas respondidas,float64,819,11,0.0
+ssff_certificaciones,Preguntas correctas,float64,819,14,0.0
+ssff_certificaciones,Total de puntos (examen),float64,819,5,5.0
+ssff_certificaciones,Puntos adquiridos (examen),float64,819,14,0.0
+ssff_certificaciones,Porcentaje de aprobados,float64,819,1,90.0
+ssff_certificaciones,Puntuación(%),int64,0,27,0
+ssff_certificaciones,Evaluación,object,630,3,Incompleto
+ssff_certificaciones,ID de objetivo,float64,819,25,109024.0
+ssff_certificaciones,Objetivo (Objetivos de examen),object,819,25,Certifícate con la U - Brownfield julio 2025
+ssff_certificaciones,Con pregunta,float64,819,1,1.0
+ssff_certificaciones,Corregir (Objetivos de examen),object,1524,2,Sí
+ssff_certificaciones,Porcentaje de aprobación (objetivos de examen),float64,819,1,90.0
+ssff_certificaciones,Puntuación(%) (Objetivos de examen),float64,819,18,0.0
+ssff_certificaciones,Evaluación (Objetivos de examen),object,819,3,Incompleto
+ssff_certificaciones,ID de pregunta,object,819,248,109024_10
+ssff_certificaciones,Número de pregunta,float64,819,17,5.0
+ssff_certificaciones,Respondidas,object,819,2,No
+ssff_certificaciones,Respondido correctamente,object,1524,2,Sí
+ssff_certificaciones,Puntos totales (Preguntas de examen),float64,819,1,1.0
+ssff_certificaciones,Puntuación obtenida (Preguntas de examen),float64,819,2,0.0
+ssff_certificaciones,Texto de la pregunta,float64,28465,0,
+ssff_certificaciones,Respuesta correcta,float64,28465,0,
+ssff_certificaciones,Elección del colaborador,float64,28465,0,
+ssff_certificaciones,Tiempo permitido,float64,28465,0,
+ssff_certificaciones,Tiempo de dedicación,float64,28465,0,
+ssff_certificaciones,CC,float64,0,4435,1002277528.0
+ssff_cursos,ID de tipo de  formación,object,0,5,UC_CALL_CAM_FOR_EN_LIN_JUL_25
+ssff_cursos,Tipo de tipo de  formación,object,0,1,CUR
+ssff_cursos,Fecha de revisión,datetime64[ns],5172,0,
+ssff_cursos,Número de revisión,int64,0,1,1
+ssff_cursos,Título,object,0,5,Fórmate en línea Campañas - Julio
+ssff_cursos,ID de colaborador,int64,0,4314,46171641
+ssff_cursos,Apellidos,object,0,4243,ARTEAGA GUEVARA
+ssff_cursos,Nombre,object,0,3280,JONATAN CAMILO
+ssff_cursos,Segundo nombre,float64,5172,0,
+ssff_cursos,ID de estado de conclusión,object,0,1,CUR-C
+ssff_cursos,Estado de progreso,object,0,1,Completo
+ssff_cursos,Fecha de finalización,object,0,4329,1/7/2025 11:46:02 América/Bogotá
+ssff_cursos,cc,int64,0,5132,1023960113
+ssff_externalid,ID de sistema de usuario,object,0,824102,45727466
+ssff_externalid,Nombres,object,1,148992,TATIANA ELENA
+ssff_externalid,Apellidos,object,4,280888,NAVARRO VERONA
+ssff_externalid,Cédula,object,71,434972,1069506998
+ssff_externalid,ID personal externa,object,0,443267,46395474
+ssff_externalid,Empresa,object,133,1108,Atlantic Quantum Innovations (CA20)
+ssff_externalid,Estado,float64,824115,0,
+ssff_externalid,Fecha de Nacimiento,datetime64[ns],3503,19952,1999-12-26 19:00:00
+ssff_externalid,Nombre Cargo,object,356,6698,ASESOR CALL CENTER CONVERGENTE
+ssff_externalid,Fecha de Ingreso,object,56,5693,15/02/22 19:00:00
+ssff_externalid,Canal,object,429729,32,AGENTE
+ssff_externalid,SubCanal,object,425382,79,CALLE
+ssff_externalid,Gv-División,object,451610,15,R2
+ssff_maestropersonas,ID de sistema de usuario,object,0,822544,45051291
+ssff_maestropersonas,Nombre de Usuario,object,1,822233,1040750865
+ssff_maestropersonas,Nombres,object,1,150571,JHONATAN STEVEN
+ssff_maestropersonas,Apellidos,object,3,281937,GUTIERREZ GALLO
+ssff_maestropersonas,Nombre Cargo,object,298,6686,Tecnico Instalaciones Bidireccional
+ssff_maestropersonas,Personal  Información sobre el teléfono Número de teléfono,object,265994,162975,3137002335
+ssff_maestropersonas,GV-Zona,object,730290,56,No Aplica
+ssff_maestropersonas,Ciudad,object,376711,879,73818
+ssff_maestropersonas,Departamento,object,376725,34,Antioquia
+ssff_maestropersonas,Género,object,150289,2,Hombre
+ssff_maestropersonas,Empresa,object,2042,999,CA13-INMEL INGENIERIA
+ssff_maestropersonas,Canal,object,424926,23,NO APLICA
+ssff_maestropersonas,SubCanal,object,425138,72,NO APLICA
+ssff_maestropersonas,SubDistribuidor,object,759937,4,No Aplica
+ssff_maestropersonas,Tipo de posición,object,170295,5,Aliados
+ssff_maestropersonas,GV-Area,object,745407,20,No Aplica
+ssff_maestropersonas,Fecha de nacimiento,datetime64[ns],3332,19946,1995-09-30 19:00:00
+ssff_maestropersonas,Detalles de empleo Fecha de ingreso,object,0,5692,5/2/2015 19:00
+ssff_maestropersonas,Nivel del Cargo,object,375477,43,TECNICO
+ssff_maestropersonas,GV-Región,object,429132,6,R2
+ssff_maestropersonas,Dirección Área Nombre,object,259457,196,Control Aliados y Presupuesto
+ssff_maestropersonas,Gerencia / Dirección Nombre,object,282,741,Aliados
+ssff_maestropersonas,Dirección Comité Nombre,object,275,30,(ING) Direccion Corporativa Tecnologia
+ssff_maestropersonas,Estado de colaborador,object,275,3,Inactivo
+ssff_maestropersonas,Cédula,object,13,434354,1040750865
+ssff_maestropersonas,Corporativo  Información sobre el correo electrónico Correo,object,77389,103362,Juan.Medinah.Ext@claro.com.co
+ssff_maestropersonas,Ubicación,object,595,294,6100210-SEDE ALIADO
+ssff_maestropersonas,Empresa Código,object,2042,990,CA13
+ssff_maestropersonas,Corporativo  Información sobre el teléfono Número de teléfono,object,265133,87912,3219377998
+ssff_maestropersonas,Personal  Información sobre el correo electrónico Correo,object,281045,119334,luz_2728@hotmail.com
+ssff_maestropersonas,Colombia Cédula de ciudadanía  DOCUMENTO DE IDENTIFICACION,object,34492,414739,9873789
+ssff_reporte_resultados_masivo,Nombre,object,0,234,Adrián Carrillo
+ssff_reporte_resultados_masivo,Correo,object,0,234,adriancarrillo1216@gmail.com
+ssff_reporte_resultados_masivo,Cédula,int64,0,234,1042440401
+ssff_reporte_resultados_masivo,Pregunta,object,0,10,"Laura, cliente de Claro, desea mejorar su plan postpago ya que no le suelen alcanzar sus GB mensuales. Actualmente, no tiene claro cuántos GB exactos tiene y se comunica con la línea de servicio al cliente para verificar esta información y conocer cuál es la mejor opción para ella. Ha visto en internet dos planes que le podrían interesar: uno de menor valor que incluye 85GB y minutos ilimitados, y otro de mayor valor que incluye 110GB, minutos ilimitados, MAX y asistencia. Actualmente Laura busca una alternativa que se ajuste a su presupuesto y le genere mejores beneficios que los que cuenta actualmente. ¿Qué pasos seguirías para gestionar la situación de Laura y asesorarla adecuadamente? "
+ssff_reporte_resultados_masivo,Respuesta,object,0,40,"Para brindarle un excelente servicio a Laura se debe tener en cuenta lo siguiente: Invitarla a descargar la APP mi Claro en donde podrá conocer información sobre su plan actual, indagar sobre la usabilidad de su plan de datos, realizando preguntas filtro como: ¿Para qué actividades usas tus datos? ¿Te interesa tener acceso a servicios adicionales como MAX y asistencia?, ¿Qué es lo que más te gusta y lo que menos te gusta de tu plan actual? Con esta información a través del aplicativo Suma y Enamora buscar una oferta bondolizada en la cual se le pueda ofrecer una mejora en su servicio manteniendo el mismo que precio que paga actualmente."
+ssff_reporte_resultados_masivo,Habilidad,object,0,9,Cambios en el servicio
+ssff_reporte_resultados_masivo,Valor,int64,0,3,100
+ssff_reporte_resultados_masivo,Indicador,object,0,1,NPS-FCR
+ssff_reporte_resultados_retencion,Nombre,object,0,332,1214724622
+ssff_reporte_resultados_retencion,Correo,object,0,332,ELSYRUIZ94@GMAI.COM
+ssff_reporte_resultados_retencion,Cédula,int64,0,332,1214724622
+ssff_reporte_resultados_retencion,Pregunta,object,0,10,"Enrique, cliente de Claro Hogar, contrató hace unos meses el servicio adicional de Max para ver una de sus series favoritas, La Casa del Dragón. Sin embargo, una vez finalizada la serie, ha comenzado a sentir que este servicio ya no le aporta ningún valor. Por lo tanto, considera que está pagando por algo que no necesita y ha decidido cancelar el servicio de Max. Enrique se ha comunicado varias veces con el servicio de atención al cliente, pero durante el proceso, ha sido puesto en esperas prolongadas. Esto le ha generado frustración en él, disminuyendo su interés en escuchar los ofrecimientos de los consultores que lo atienden. En un último intento, el cliente se vuelve a comunicar a la línea de retención deseando resolver este asunto lo más pronto posible para evitar seguir incurriendo en costos. Es atendido por Luisa, asesora experta de la campaña, quien escucha la solicitud manifestada por el cliente, disculpándose por la atención brindada, y resaltando los beneficios que incluye Max, creando la necesidad de continuar con el servicio y logrando que el cliente desista de la cancelación. Según tu conocimiento, selecciona la mejor argumentación de las características y beneficios presentada por nuestra líder de servicio:"
+ssff_reporte_resultados_retencion,Respuesta,object,0,40,"Entiendo su molestia y le pido disculpas por cualquier inconveniente. Mientras tanto, la consultora verifica el código de tarifa en la herramienta de apoyo para tarifas, evidenciando que no es una tarifa bundle.  Al realizar la consulta en la herramienta “Retiene y Enamora”, se evidencia que es posible modificar la tarifa del cliente, cambiando el servicio por una tarifa bundle que mejora significativamente la percepción del servicio por parte del cliente. El cliente acepta, por lo tanto, deberías darle esta información de la siguiente manera: “Enrique, en Max podrás seguir disfrutando de tus series y películas favoritas. Además, la oferta aceptada aplica para un 50% de descuento durante seis meses en el servicio MAX”. El consultor realizará el cambio de tarifa desde la orden de trabajo, modificando el código de la tarifa y aplicando la campaña ofrecida. “Esto puede tomar unos momentos, así que le pido un poco de paciencia mientras completo el proceso”.  Al realizar el cambio de la tarifa de nuestro cliente, confirmas las condiciones del mismo y recomendaciones de pago para conservar los beneficios aplicados como lo son:  1. No pagar después de la fecha límite. 2. Evitar desconexiones por mora. 3. Conocer las características del plan desde la App Mi Claro."
+ssff_reporte_resultados_retencion,Habilidad,object,0,10,Cambios en el servicio
+ssff_reporte_resultados_retencion,Valor,int64,0,3,100
+ssff_reporte_resultados_retencion,Indicador,object,0,1,RETENCIÓN
+ssff_reporte_resultados_soporte,Nombre,object,0,222,adrian
+ssff_reporte_resultados_soporte,Correo,object,0,222,ADRIANRJ3110@GMAIL.COM
+ssff_reporte_resultados_soporte,Cédula,int64,0,222,1193227529
+ssff_reporte_resultados_soporte,Pregunta,object,0,10,"Laura, cliente de Claro, desea mejorar su plan de hogar, ya que al momento de jugar presenta lentitud en el servicio y siente. Actualmente, no tiene claro cuántos MB exactos de descarga tiene y se comunica con la línea de servicio al cliente para verificar esta información y conocer cuál es la mejor opción para ella. Ha visto en internet dos planes que le podrían interesar: uno de menor valor que incluye 350 MB y Ultra Wifi, y otro de mayor valor que incluye 500 MB, y Ultra Wifi. Actualmente Laura busca una alternativa que se ajuste a su presupuesto y le genere mejores beneficios que los que cuenta actualmente. ¿Qué pasos seguirías para gestionar la situación de Laura y asesorarla adecuadamente?"
+ssff_reporte_resultados_soporte,Respuesta,object,0,40,"Para brindarle un excelente servicio a Laura se debe tener en cuenta lo siguiente: Invitarla a descargar la APP mi Claro en donde podrá conocer información sobre su plan actual, indagar sobre la usabilidad de su plan de actual, realizando preguntas filtro como: ¿Qué tipo de juegos utilizas y de qué manera utilizadas la conexión? ¿utilizas tu servicio para actividades adicionales como ingresar a plataformas Streaming?, ¿Qué es lo que más te gusta y lo que menos te gusta de tu plan actual? Con esta información asesorarla para que tome el plan de 500MB que es el más completo y le puede traer mejores beneficios."
+ssff_reporte_resultados_soporte,Habilidad,object,0,9,Cambios en el servicio
+ssff_reporte_resultados_soporte,Valor,int64,0,3,100
+ssff_reporte_resultados_soporte,Indicador,object,0,2,NPS-FCR
+ssff_reporte_resultados_whatsapp,Nombre,object,0,75,Alejandra Alarcón Ossa
+ssff_reporte_resultados_whatsapp,Correo,object,0,75,alejandra.alarcon@op.brm.co
+ssff_reporte_resultados_whatsapp,Cédula,int64,0,75,1000220361
+ssff_reporte_resultados_whatsapp,Pregunta,object,0,10,"Laura, cliente de Claro, desea mejorar su plan postpago ya que no le suelen alcanzar sus GB mensuales. Actualmente, no tiene claro cuántos GB exactos tiene y se comunica a través del chat de Whatsapp para verificar esta información y conocer cuál es la mejor opción para ella. Ha visto en internet dos planes que le podrían interesar: uno de menor valor que incluye 85GB y minutos ilimitados, y otro de mayor valor que incluye 110GB, minutos ilimitados, MAX y asistencia. Actualmente Laura busca una alternativa que se ajuste a su presupuesto y le genere mejores beneficios que los que cuenta actualmente. ¿Qué pasos seguirías para gestionar la situación de Laura y asesorarla adecuadamente? "
+ssff_reporte_resultados_whatsapp,Respuesta,object,0,39,"Para brindarle un excelente servicio a Laura se debe tener en cuenta lo siguiente: Invitarla a descargar la APP mi Claro en donde podrá conocer información sobre su plan actual, indagar sobre la usabilidad de su plan de datos, realizando preguntas filtro como: ¿Para qué actividades  usas tus datos, ¿con qué frecuencia?, ¿cuál es tu presupuesto? Con esta información asesorarla para que pueda adquirir el plan que más se le ajuste a Laura."
+ssff_reporte_resultados_whatsapp,Habilidad,object,0,9,Cambios en el servicio
+ssff_reporte_resultados_whatsapp,Valor,int64,0,3,50
+ssff_reporte_resultados_whatsapp,Indicador,object,0,1,NPS-FCR
